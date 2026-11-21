@@ -2,7 +2,7 @@
 
 I’m a Software Engineer at SovWare. I contribute to Directorist and received a [WordPress 7.0 Core credit](https://core.trac.wordpress.org/changeset/61598).
 
-[Portfolio](https://rabbiislamrony.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rabbiislamrony/) · [WordPress.org](https://profiles.wordpress.org/ronya4927/) · [Rabbi Islam Rony on Facebook](https://www.facebook.com/Rabbi.Islam.Rony.BD/)
+[Portfolio](https://rabbiislamrony.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rabbiislamrony/) · [WordPress.org](https://profiles.wordpress.org/ronya4927/) · [Rabbi Islam Rony on Facebook](https://www.facebook.com/rabbiislamronydev/)
 
 ## Published WordPress Projects
 
