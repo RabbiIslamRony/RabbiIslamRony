@@ -1,6 +1,6 @@
 # Rabbi Islam Rony (@rabbiislamrony)
 
-I’m a frontend and WordPress developer at SovWare. I contribute to Directorist and received a [WordPress 7.0 Core credit](https://core.trac.wordpress.org/changeset/61598).
+I’m a Software Engineer at SovWare. I contribute to Directorist and received a [WordPress 7.0 Core credit](https://core.trac.wordpress.org/changeset/61598).
 
 [Portfolio](https://rabbiislamrony.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rabbiislamrony/) · [WordPress.org](https://profiles.wordpress.org/ronya4927/)
 
